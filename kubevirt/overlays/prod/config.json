@@ -1,0 +1,10 @@
+{
+    "appName": "testvm-prod",
+    "userGivenName": "testvm-prod",
+    "destNamespace": "kubevirt",
+    "destServer": "https://kubernetes.default.svc",
+    "srcPath": "apps/kubevirt/overlays/prod",
+    "srcRepoURL": "https://github.com/formiclabs/gitops.git",
+    "srcTargetRevision": "",
+    "labels": null
+  }

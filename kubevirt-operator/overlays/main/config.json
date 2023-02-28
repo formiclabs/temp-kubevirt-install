@@ -1,0 +1,10 @@
+{
+    "appName": "kubevirt-operator",
+    "userGivenName": "kubevirt-operator",
+    "destNamespace": "kubevirt",
+    "destServer": "https://kubernetes.default.svc",
+    "srcPath": "bootstrap/core/kubevirt-operator/overlays/main",
+    "srcRepoURL": "https://github.com/formiclabs/gitops.git",
+    "srcTargetRevision": "",
+    "labels": null
+  }
